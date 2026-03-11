@@ -1,0 +1,94 @@
+{
+  "themes": {
+    "mediated-social-touch": {
+      "label": "Mediated Social Touch",
+      "color": "#5B8DEF"
+    },
+    "touch-as-communication": {
+      "label": "Touch as Communication",
+      "color": "#5B8DEF"
+    },
+    "symbolic-touch": {
+      "label": "Symbolic Touch",
+      "color": "#5B8DEF"
+    },
+    "affect-and-presence": {
+      "label": "Affect and Presence",
+      "color": "#7A9EFA"
+    },
+    "tactile-perception": {
+      "label": "Tactile Perception",
+      "color": "#58B368"
+    },
+    "digital-textiles": {
+      "label": "Digital Textiles",
+      "color": "#58B368"
+    },
+    "body-as-interface": {
+      "label": "Body as Interface",
+      "color": "#F2A65A"
+    },
+    "on-skin-interaction": {
+      "label": "On-Skin Interaction",
+      "color": "#F2A65A"
+    },
+    "gaze-touch-interaction": {
+      "label": "Gaze-Touch Interaction",
+      "color": "#F2A65A"
+    },
+    "critical-expansion-of-touch": {
+      "label": "Critical Expansion of Touch",
+      "color": "#B07CF7"
+    },
+    "historical-contextual": {
+      "label": "Historical / Contextual",
+      "color": "#B07CF7"
+    },
+    "applied-technologies-and-design": {
+      "label": "Applied Technologies and Design",
+      "color": "#D98C5F"
+    }
+  },
+  "methods": {
+    "conceptual": { "label": "Conceptual" },
+    "editorial": { "label": "Editorial" },
+    "review": { "label": "Review" },
+    "user-study": { "label": "User Study" },
+    "mixed-methods": { "label": "Mixed Methods" },
+    "quantitative": { "label": "Quantitative" },
+    "interaction-prototype": { "label": "Interaction Prototype" },
+    "framework": { "label": "Framework" },
+    "interaction-technique": { "label": "Interaction Technique" }
+  },
+  "tensions": {
+    "touch-reduced-to-input": {
+      "label": "Touch Reduced to Input"
+    },
+    "gap-between-implementation-and-meaning": {
+      "label": "Implementation vs Meaning Gap"
+    },
+    "symbolic-vs-physical-touch": {
+      "label": "Symbolic vs Physical Touch"
+    },
+    "underdeveloped-touch-vocabulary": {
+      "label": "Underdeveloped Touch Vocabulary"
+    },
+    "bodily-meaning-ignored-in-interface-design": {
+      "label": "Bodily Meaning Ignored in Interface Design"
+    }
+  },
+  "relation_types": {
+    "conceptual-link": {
+      "label": "Conceptual Link"
+    },
+    "domain-link": {
+      "label": "Domain Link"
+    },
+    "method-link": {
+      "label": "Method Link"
+    },
+    "tension-link": {
+      "label": "Tension Link"
+    }
+  }
+}

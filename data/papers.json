@@ -1,0 +1,387 @@
+[
+  {
+    "id": "atkinson2013",
+    "title": "Tactile perceptions of digital textiles",
+    "label": "Digital Textiles",
+    "authors": [
+      "Atkinson et al."
+    ],
+    "year": 2013,
+    "status": "annotated",
+    "source_type": "paper",
+    "pdf_path": "",
+    "doi": "",
+    "url": "",
+    "summary": "This paper looks at tactile perceptions of digital textiles and is useful as a reference for quantitative touch research. At the moment it seems most useful as a methodological reference rather than a central conceptual paper.",
+    "key_concepts": [
+      "digital textiles",
+      "tactile perception",
+      "quantitative touch research",
+      "iShoogle"
+    ],
+    "themes": [
+      "digital-textiles",
+      "tactile-perception",
+      "applied-technologies-and-design"
+    ],
+    "methods": [
+      "quantitative",
+      "user-study"
+    ],
+    "tensions": [
+      "gap-between-implementation-and-meaning"
+    ],
+    "notes": "This entry should be expanded after rereading. For now its main value is as a quantitative reference point in the literature.",
+    "quotes": [
+      "Good reference for quantitative research on touch."
+    ],
+    "related": [
+      {
+        "target": "tactile-triangle",
+        "type": "method-link",
+        "reason": "Both deal with tactile evaluation and textile touch."
+      }
+    ],
+    "primary_theme": "digital-textiles",
+    "color": "#58B368",
+    "filename": "atkinson2013.json"
+  },
+  {
+    "id": "barbareschi-mst",
+    "title": "Mediated Social Touch",
+    "label": "Mediated Social Touch",
+    "authors": [
+      "Barbareschi et al."
+    ],
+    "year": "",
+    "status": "annotated",
+    "source_type": "paper",
+    "pdf_path": "",
+    "doi": "",
+    "url": "",
+    "summary": "This paper appears to explore mediated social touch in depth, including use cases, results, and challenges. Based on the current note, it functions as groundwork for the area and as a foundational reference node for the mediated social touch cluster.",
+    "key_concepts": [
+      "mediated social touch",
+      "use cases",
+      "challenges",
+      "field groundwork"
+    ],
+    "themes": [
+      "mediated-social-touch",
+      "touch-as-communication",
+      "affect-and-presence",
+      "historical-contextual"
+    ],
+    "methods": [
+      "review",
+      "conceptual"
+    ],
+    "tensions": [
+      "gap-between-implementation-and-meaning",
+      "symbolic-vs-physical-touch"
+    ],
+    "notes": "This note is still brief, so the entry should be expanded later. For now, its role in the database is to serve as groundwork for the mediated social touch cluster.",
+    "quotes": [
+      "Good groundwork. Very recent."
+    ],
+    "related": [
+      {
+        "target": "yarosh2022",
+        "type": "domain-link",
+        "reason": "Both are central to mediated social touch."
+      },
+      {
+        "target": "price2022",
+        "type": "conceptual-link",
+        "reason": "Both help frame the broader discourse around digital touch."
+      }
+    ],
+    "primary_theme": "mediated-social-touch",
+    "color": "#5B8DEF",
+    "filename": "barbareschi-mst.json"
+  },
+  {
+    "id": "price2022",
+    "title": "Introduction to the Special Issue on Digital Touch",
+    "label": "Technologies of Touch",
+    "authors": [
+      "Price et al."
+    ],
+    "year": 2022,
+    "status": "annotated",
+    "source_type": "paper",
+    "pdf_path": "",
+    "doi": "",
+    "url": "",
+    "summary": "This paper frames digital touch as a communicative, relational, social, and cultural practice rather than merely a sensory or physiological phenomenon. It expands the discourse of touch beyond device-centric or implementation-focused views. It is useful as a conceptual anchor for understanding technologies of touch as a broader field.",
+    "key_concepts": [
+      "digital touch",
+      "communicative practice",
+      "relational touch",
+      "affective touch",
+      "socio-cultural touch"
+    ],
+    "themes": [
+      "critical-expansion-of-touch",
+      "touch-as-communication",
+      "affect-and-presence",
+      "historical-contextual"
+    ],
+    "methods": [
+      "conceptual",
+      "editorial"
+    ],
+    "tensions": [
+      "touch-reduced-to-input",
+      "gap-between-implementation-and-meaning"
+    ],
+    "notes": "This functions almost like a manifesto for expanded theorization of touch. It is especially useful for framing touch as a practice rather than an input modality.",
+    "quotes": [
+      "Digital touch reshapes who can touch, what can be touched, and how touch is experienced across distance and mediation."
+    ],
+    "related": [
+      {
+        "target": "tactile-triangle",
+        "type": "conceptual-link",
+        "reason": "Both expand touch beyond a narrow technical framing."
+      },
+      {
+        "target": "yarosh2022",
+        "type": "conceptual-link",
+        "reason": "Both treat touch as communicative and relational."
+      },
+      {
+        "target": "weigel2014",
+        "type": "tension-link",
+        "reason": "Both resist reducing touch to neutral input."
+      },
+      {
+        "target": "barbareschi-mst",
+        "type": "domain-link",
+        "reason": "Both help define the broader field of digital and mediated touch."
+      }
+    ],
+    "primary_theme": "critical-expansion-of-touch",
+    "color": "#B07CF7",
+    "filename": "price2022.json"
+  },
+  {
+    "id": "stellmach2012",
+    "title": "Look & Touch: gaze-supported target acquisition",
+    "label": "Look & Touch",
+    "authors": [
+      "Stellmach",
+      "Dachselt"
+    ],
+    "year": 2012,
+    "status": "annotated",
+    "source_type": "paper",
+    "pdf_path": "",
+    "doi": "",
+    "url": "",
+    "summary": "This paper studies gaze-supported touch interaction on handheld devices and frames touch as a confirming gesture in target acquisition. It is relevant mainly as an interaction-technique reference and less as a central conceptual contribution to technologies of touch.",
+    "key_concepts": [
+      "gaze-supported touch",
+      "target acquisition",
+      "touch as confirmation",
+      "interaction technique"
+    ],
+    "themes": [
+      "gaze-touch-interaction",
+      "applied-technologies-and-design"
+    ],
+    "methods": [
+      "user-study",
+      "interaction-technique"
+    ],
+    "tensions": [
+      "gap-between-implementation-and-meaning"
+    ],
+    "notes": "A key idea here is that gaze suggests and touch confirms. At the moment this looks peripheral to the main conceptual direction, but it may still be useful as a comparison case.",
+    "quotes": [
+      "Gaze suggests, touch confirms."
+    ],
+    "related": [
+      {
+        "target": "weigel2014",
+        "type": "method-link",
+        "reason": "Both are HCI interaction papers where touch is operationalized in experiments."
+      }
+    ],
+    "primary_theme": "gaze-touch-interaction",
+    "color": "#F2A65A",
+    "filename": "stellmach2012.json"
+  },
+  {
+    "id": "tactile-triangle",
+    "title": "The tactile triangle: a design research framework demonstrated through tactile comparisons of textile materials",
+    "label": "Tactile Triangle",
+    "authors": [
+      "Unknown"
+    ],
+    "year": "",
+    "status": "annotated",
+    "source_type": "paper",
+    "pdf_path": "",
+    "doi": "",
+    "url": "",
+    "summary": "This paper proposes the tactile triangle as a three-level framework for understanding touch through physical properties, perceptual experience, and communication. It treats touch as something measurable, perceivable, and communicable rather than only as a sensory event. It is useful as a transferable model for analysing touch across domains beyond textiles.",
+    "key_concepts": [
+      "tactile triangle",
+      "physical properties",
+      "perceptual space",
+      "communication of tactile experience",
+      "touch as multi-layered phenomenon"
+    ],
+    "themes": [
+      "tactile-perception",
+      "critical-expansion-of-touch"
+    ],
+    "methods": [
+      "framework",
+      "conceptual"
+    ],
+    "tensions": [
+      "underdeveloped-touch-vocabulary",
+      "touch-reduced-to-input"
+    ],
+    "notes": "This is one of the most useful conceptual papers in the set because it gives a structure for talking about touch at multiple levels. The model can be mapped onto interface design through physical, perceptual, and communicative layers.",
+    "quotes": [
+      "Touch is positioned simultaneously as measurable, perceivable, and communicable."
+    ],
+    "related": [
+      {
+        "target": "price2022",
+        "type": "conceptual-link",
+        "reason": "Both expand touch beyond narrow technical framing."
+      },
+      {
+        "target": "weigel2014",
+        "type": "tension-link",
+        "reason": "Both emphasize bodily and perceptual meaning beyond neutral input."
+      },
+      {
+        "target": "atkinson2013",
+        "type": "method-link",
+        "reason": "Both relate to tactile evaluation and textile material perception."
+      }
+    ],
+    "primary_theme": "tactile-perception",
+    "color": "#58B368",
+    "filename": "tactile-triangle.json"
+  },
+  {
+    "id": "weigel2014",
+    "title": "More than touch: understanding how people use skin as an input surface for mobile computing",
+    "label": "Skin as Input Surface",
+    "authors": [
+      "Weigel et al."
+    ],
+    "year": 2014,
+    "status": "annotated",
+    "source_type": "paper",
+    "pdf_path": "",
+    "doi": "",
+    "url": "",
+    "summary": "This paper explores on-skin interaction and treats the body itself as an input surface for mobile computing. It shows that different skin locations afford different gestures and meanings, and that physical comfort or discomfort can be deliberately used as part of interaction design. It is valuable because it frames touch as bodily, anatomical, and affective rather than neutral.",
+    "key_concepts": [
+      "skin as input surface",
+      "body-as-interface",
+      "anatomical specificity",
+      "bodily awareness",
+      "affect in interaction"
+    ],
+    "themes": [
+      "body-as-interface",
+      "on-skin-interaction",
+      "applied-technologies-and-design"
+    ],
+    "methods": [
+      "user-study",
+      "interaction-prototype"
+    ],
+    "tensions": [
+      "bodily-meaning-ignored-in-interface-design",
+      "touch-reduced-to-input"
+    ],
+    "notes": "This paper strongly suggests that skin is not just a surface but a differentiated interface with expressive and functional variation. A very interesting point is that uncomfortable gestures can be reserved for irreversible or important actions.",
+    "quotes": [
+      "Touch is redefined here as body-as-interface."
+    ],
+    "related": [
+      {
+        "target": "tactile-triangle",
+        "type": "tension-link",
+        "reason": "Both resist reducing touch to purely technical sensing."
+      },
+      {
+        "target": "price2022",
+        "type": "tension-link",
+        "reason": "Both broaden touch beyond neutral input."
+      },
+      {
+        "target": "stellmach2012",
+        "type": "method-link",
+        "reason": "Both are HCI-oriented interaction papers using touch operationally."
+      }
+    ],
+    "primary_theme": "body-as-interface",
+    "color": "#F2A65A",
+    "filename": "weigel2014.json"
+  },
+  {
+    "id": "yarosh2022",
+    "title": "Perceptions of visual and multimodal symbolic mediated social touch",
+    "label": "Visual & Multimodal MST",
+    "authors": [
+      "Yarosh et al."
+    ],
+    "year": 2022,
+    "status": "annotated",
+    "source_type": "paper",
+    "pdf_path": "pdfs/yarosh2022.pdf",
+    "doi": "",
+    "url": "",
+    "summary": "This paper studies mediated social touch in remote communication and compares visual, haptic, and multimodal symbolic gestures. It argues that touch can operate as a symbolic communication channel whose meaning depends on relationship and emotional context. It is especially interesting because physical haptics are not always necessary for meaningful mediated touch.",
+    "key_concepts": [
+      "mediated social touch",
+      "symbolic communication",
+      "social presence",
+      "social dissonance",
+      "multimodal gestures"
+    ],
+    "themes": [
+      "mediated-social-touch",
+      "touch-as-communication",
+      "symbolic-touch",
+      "affect-and-presence"
+    ],
+    "methods": [
+      "user-study",
+      "mixed-methods"
+    ],
+    "tensions": [
+      "symbolic-vs-physical-touch",
+      "gap-between-implementation-and-meaning"
+    ],
+    "notes": "This paper is important because it partially decouples touch from physical haptics. A projector-camera system without haptics can perform no worse than a haptic one on several measures, which is conceptually very useful.",
+    "quotes": [
+      "Touch is treated here as a symbolic communication channel."
+    ],
+    "related": [
+      {
+        "target": "price2022",
+        "type": "conceptual-link",
+        "reason": "Both frame touch as communicative and relational rather than merely technical."
+      },
+      {
+        "target": "barbareschi-mst",
+        "type": "domain-link",
+        "reason": "Both belong to the mediated social touch cluster."
+      }
+    ],
+    "primary_theme": "mediated-social-touch",
+    "color": "#5B8DEF",
+    "filename": "yarosh2022.json"
+  }
+]

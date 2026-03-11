@@ -1,0 +1,50 @@
+{
+  "id": "yarosh2022",
+  "title": "Perceptions of visual and multimodal symbolic mediated social touch",
+  "short_title": "Visual & Multimodal MST",
+  "authors": ["Yarosh et al."],
+  "year": 2022,
+  "status": "annotated",
+  "source_type": "paper",
+  "pdf_path": "pdfs/yarosh2022.pdf",
+  "doi": "",
+  "url": "",
+  "summary": "This paper studies mediated social touch in remote communication and compares visual, haptic, and multimodal symbolic gestures. It argues that touch can operate as a symbolic communication channel whose meaning depends on relationship and emotional context. It is especially interesting because physical haptics are not always necessary for meaningful mediated touch.",
+  "key_concepts": [
+    "mediated social touch",
+    "symbolic communication",
+    "social presence",
+    "social dissonance",
+    "multimodal gestures"
+  ],
+  "themes": [
+    "mediated-social-touch",
+    "touch-as-communication",
+    "symbolic-touch",
+    "affect-and-presence"
+  ],
+  "methods": [
+    "user-study",
+    "mixed-methods"
+  ],
+  "tensions": [
+    "symbolic-vs-physical-touch",
+    "gap-between-implementation-and-meaning"
+  ],
+  "related": [
+    {
+      "target": "price2022",
+      "type": "conceptual-link",
+      "reason": "Both frame touch as communicative and relational rather than merely technical."
+    },
+    {
+      "target": "barbareschi-mst",
+      "type": "domain-link",
+      "reason": "Both belong to the mediated social touch cluster."
+    }
+  ],
+  "notes": "This paper is important because it partially decouples touch from physical haptics. A projector-camera system without haptics can perform no worse than a haptic one on several measures, which is conceptually very useful.",
+  "quotes": [
+    "Touch is treated here as a symbolic communication channel."
+  ]
+}

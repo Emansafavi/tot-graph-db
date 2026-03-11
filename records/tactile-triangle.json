@@ -1,0 +1,53 @@
+{
+  "id": "tactile-triangle",
+  "title": "The tactile triangle: a design research framework demonstrated through tactile comparisons of textile materials",
+  "short_title": "Tactile Triangle",
+  "authors": ["Unknown"],
+  "year": "",
+  "status": "annotated",
+  "source_type": "paper",
+  "pdf_path": "",
+  "doi": "",
+  "url": "",
+  "summary": "This paper proposes the tactile triangle as a three-level framework for understanding touch through physical properties, perceptual experience, and communication. It treats touch as something measurable, perceivable, and communicable rather than only as a sensory event. It is useful as a transferable model for analysing touch across domains beyond textiles.",
+  "key_concepts": [
+    "tactile triangle",
+    "physical properties",
+    "perceptual space",
+    "communication of tactile experience",
+    "touch as multi-layered phenomenon"
+  ],
+  "themes": [
+    "tactile-perception",
+    "critical-expansion-of-touch"
+  ],
+  "methods": [
+    "framework",
+    "conceptual"
+  ],
+  "tensions": [
+    "underdeveloped-touch-vocabulary",
+    "touch-reduced-to-input"
+  ],
+  "related": [
+    {
+      "target": "price2022",
+      "type": "conceptual-link",
+      "reason": "Both expand touch beyond narrow technical framing."
+    },
+    {
+      "target": "weigel2014",
+      "type": "tension-link",
+      "reason": "Both emphasize bodily and perceptual meaning beyond neutral input."
+    },
+    {
+      "target": "atkinson2013",
+      "type": "method-link",
+      "reason": "Both relate to tactile evaluation and textile material perception."
+    }
+  ],
+  "notes": "This is one of the most useful conceptual papers in the set because it gives a structure for talking about touch at multiple levels. The model can be mapped onto interface design through physical, perceptual, and communicative layers.",
+  "quotes": [
+    "Touch is positioned simultaneously as measurable, perceivable, and communicable."
+  ]
+}

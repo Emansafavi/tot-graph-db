@@ -1,0 +1,42 @@
+{
+  "id": "atkinson2013",
+  "title": "Tactile perceptions of digital textiles",
+  "short_title": "Digital Textiles",
+  "authors": ["Atkinson et al."],
+  "year": 2013,
+  "status": "annotated",
+  "source_type": "paper",
+  "pdf_path": "",
+  "doi": "",
+  "url": "",
+  "summary": "This paper looks at tactile perceptions of digital textiles and is useful as a reference for quantitative touch research. At the moment it seems most useful as a methodological reference rather than a central conceptual paper.",
+  "key_concepts": [
+    "digital textiles",
+    "tactile perception",
+    "quantitative touch research",
+    "iShoogle"
+  ],
+  "themes": [
+    "digital-textiles",
+    "tactile-perception",
+    "applied-technologies-and-design"
+  ],
+  "methods": [
+    "quantitative",
+    "user-study"
+  ],
+  "tensions": [
+    "gap-between-implementation-and-meaning"
+  ],
+  "related": [
+    {
+      "target": "tactile-triangle",
+      "type": "method-link",
+      "reason": "Both deal with tactile evaluation and textile touch."
+    }
+  ],
+  "notes": "This entry should be expanded after rereading. For now its main value is as a quantitative reference point in the literature.",
+  "quotes": [
+    "Good reference for quantitative research on touch."
+  ]
+}

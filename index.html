@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Technologies of Touch Graph</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://unpkg.com/cytoscape/dist/cytoscape.min.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <h1>Technologies of Touch</h1>
+      <p class="subtitle">Local research graph prototype</p>
+    </div>
+
+    <div class="controls">
+      <label for="themeFilter">Theme</label>
+      <select id="themeFilter">
+        <option value="">All themes</option>
+      </select>
+
+      <label for="methodFilter">Method</label>
+      <select id="methodFilter">
+        <option value="">All methods</option>
+      </select>
+
+      <button id="resetBtn">Reset</button>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="graph-panel">
+      <div id="cy"></div>
+    </section>
+
+    <aside class="detail-panel">
+      <div id="paperDetail" class="detail-card">
+        <h2>Select a paper</h2>
+        <p>Click a node to see details.</p>
+      </div>
+    </aside>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

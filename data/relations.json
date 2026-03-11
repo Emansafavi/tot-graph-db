@@ -1,0 +1,56 @@
+[
+  {
+    "source": "atkinson2013",
+    "target": "tactile-triangle",
+    "type": "method-link",
+    "reason": "Both deal with tactile evaluation and textile touch."
+  },
+  {
+    "source": "barbareschi-mst",
+    "target": "yarosh2022",
+    "type": "domain-link",
+    "reason": "Both are central to mediated social touch."
+  },
+  {
+    "source": "barbareschi-mst",
+    "target": "price2022",
+    "type": "conceptual-link",
+    "reason": "Both help frame the broader discourse around digital touch."
+  },
+  {
+    "source": "price2022",
+    "target": "tactile-triangle",
+    "type": "conceptual-link",
+    "reason": "Both expand touch beyond a narrow technical framing."
+  },
+  {
+    "source": "price2022",
+    "target": "yarosh2022",
+    "type": "conceptual-link",
+    "reason": "Both treat touch as communicative and relational."
+  },
+  {
+    "source": "price2022",
+    "target": "weigel2014",
+    "type": "tension-link",
+    "reason": "Both resist reducing touch to neutral input."
+  },
+  {
+    "source": "price2022",
+    "target": "barbareschi-mst",
+    "type": "domain-link",
+    "reason": "Both help define the broader field of digital and mediated touch."
+  },
+  {
+    "source": "stellmach2012",
+    "target": "weigel2014",
+    "type": "method-link",
+    "reason": "Both are HCI interaction papers where touch is operationalized in experiments."
+  },
+  {
+    "source": "tactile-triangle",
+    "target": "weigel2014",
+    "type": "tension-link",
+    "reason": "Both emphasize bodily and perceptual meaning beyond neutral input."
+  }
+]

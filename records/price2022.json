@@ -1,0 +1,60 @@
+{
+  "id": "price2022",
+  "title": "Introduction to the Special Issue on Digital Touch",
+  "short_title": "Technologies of Touch",
+  "authors": ["Price et al."],
+  "year": 2022,
+  "status": "annotated",
+  "source_type": "paper",
+  "pdf_path": "",
+  "doi": "",
+  "url": "",
+  "summary": "This paper frames digital touch as a communicative, relational, social, and cultural practice rather than merely a sensory or physiological phenomenon. It expands the discourse of touch beyond device-centric or implementation-focused views. It is useful as a conceptual anchor for understanding technologies of touch as a broader field.",
+  "key_concepts": [
+    "digital touch",
+    "communicative practice",
+    "relational touch",
+    "affective touch",
+    "socio-cultural touch"
+  ],
+  "themes": [
+    "critical-expansion-of-touch",
+    "touch-as-communication",
+    "affect-and-presence",
+    "historical-contextual"
+  ],
+  "methods": [
+    "conceptual",
+    "editorial"
+  ],
+  "tensions": [
+    "touch-reduced-to-input",
+    "gap-between-implementation-and-meaning"
+  ],
+  "related": [
+    {
+      "target": "tactile-triangle",
+      "type": "conceptual-link",
+      "reason": "Both expand touch beyond a narrow technical framing."
+    },
+    {
+      "target": "yarosh2022",
+      "type": "conceptual-link",
+      "reason": "Both treat touch as communicative and relational."
+    },
+    {
+      "target": "weigel2014",
+      "type": "tension-link",
+      "reason": "Both resist reducing touch to neutral input."
+    },
+    {
+      "target": "barbareschi-mst",
+      "type": "domain-link",
+      "reason": "Both help define the broader field of digital and mediated touch."
+    }
+  ],
+  "notes": "This functions almost like a manifesto for expanded theorization of touch. It is especially useful for framing touch as a practice rather than an input modality.",
+  "quotes": [
+    "Digital touch reshapes who can touch, what can be touched, and how touch is experienced across distance and mediation."
+  ]
+}

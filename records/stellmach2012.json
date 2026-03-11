@@ -1,0 +1,41 @@
+{
+  "id": "stellmach2012",
+  "title": "Look & Touch: gaze-supported target acquisition",
+  "short_title": "Look & Touch",
+  "authors": ["Stellmach", "Dachselt"],
+  "year": 2012,
+  "status": "annotated",
+  "source_type": "paper",
+  "pdf_path": "",
+  "doi": "",
+  "url": "",
+  "summary": "This paper studies gaze-supported touch interaction on handheld devices and frames touch as a confirming gesture in target acquisition. It is relevant mainly as an interaction-technique reference and less as a central conceptual contribution to technologies of touch.",
+  "key_concepts": [
+    "gaze-supported touch",
+    "target acquisition",
+    "touch as confirmation",
+    "interaction technique"
+  ],
+  "themes": [
+    "gaze-touch-interaction",
+    "applied-technologies-and-design"
+  ],
+  "methods": [
+    "user-study",
+    "interaction-technique"
+  ],
+  "tensions": [
+    "gap-between-implementation-and-meaning"
+  ],
+  "related": [
+    {
+      "target": "weigel2014",
+      "type": "method-link",
+      "reason": "Both are HCI interaction papers where touch is operationalized in experiments."
+    }
+  ],
+  "notes": "A key idea here is that gaze suggests and touch confirms. At the moment this looks peripheral to the main conceptual direction, but it may still be useful as a comparison case.",
+  "quotes": [
+    "Gaze suggests, touch confirms."
+  ]
+}
