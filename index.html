@@ -14,18 +14,24 @@
       <p class="subtitle">Local research graph prototype</p>
     </div>
 
-    <div class="controls">
-      <label for="themeFilter">Theme</label>
-      <select id="themeFilter">
-        <option value="">All themes</option>
-      </select>
+    <div class="topbar-right">
+      <div class="controls">
+        <label for="themeFilter">Theme</label>
+        <select id="themeFilter">
+          <option value="">All themes</option>
+        </select>
 
-      <label for="methodFilter">Method</label>
-      <select id="methodFilter">
-        <option value="">All methods</option>
-      </select>
+        <label for="methodFilter">Method</label>
+        <select id="methodFilter">
+          <option value="">All methods</option>
+        </select>
 
-      <button id="resetBtn">Reset</button>
+        <button id="resetBtn">Reset</button>
+      </div>
+
+      <div id="legend" class="legend">
+        <!-- Populated from taxonomy.json -->
+      </div>
     </div>
   </header>
 

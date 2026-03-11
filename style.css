@@ -39,6 +39,13 @@ body {
   font-size: 0.95rem;
 }
 
+.topbar-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10px;
+}
+
 .controls {
   display: flex;
   align-items: center;
@@ -67,6 +74,47 @@ body {
 
 .controls button:hover {
   background: #2c2c2c;
+}
+
+.legend {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 4px;
+  font-size: 0.85rem;
+  color: #bbb;
+}
+
+.legend-title {
+  font-weight: 600;
+  color: #ddd;
+}
+
+.legend-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 12px;
+  justify-content: flex-end;
+}
+
+.legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.legend-swatch {
+  width: 12px;
+  height: 12px;
+  border-radius: 4px;
+  border: 1px solid #333;
+}
+
+.legend-label {
+  color: #ccc;
 }
 
 .layout {
@@ -153,6 +201,15 @@ body {
 @media (max-width: 900px) {
   .layout {
     grid-template-columns: 1fr;
+  }
+
+  .topbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .topbar-right {
+    align-items: flex-start;
   }
 
   .graph-panel {

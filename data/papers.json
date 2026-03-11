@@ -223,8 +223,8 @@
     "status": "annotated",
     "source_type": "paper",
     "pdf_path": "",
-    "doi": "",
-    "url": "",
+    "doi": "10.1145/2556288.2557239",
+    "url": "http://www.inderscience.com/link.php?id=77015",
     "summary": "This paper proposes the tactile triangle as a three-level framework for understanding touch through physical properties, perceptual experience, and communication. It treats touch as something measurable, perceivable, and communicable rather than only as a sensory event. It is useful as a transferable model for analysing touch across domains beyond textiles.",
     "key_concepts": [
       "tactile triangle",
@@ -282,7 +282,7 @@
     "source_type": "paper",
     "pdf_path": "",
     "doi": "",
-    "url": "",
+    "url": "https://dl.acm.org/doi/10.1145/2556288.2557239",
     "summary": "This paper explores on-skin interaction and treats the body itself as an input surface for mobile computing. It shows that different skin locations afford different gestures and meanings, and that physical comfort or discomfort can be deliberately used as part of interaction design. It is valuable because it frames touch as bodily, anatomical, and affective rather than neutral.",
     "key_concepts": [
       "skin as input surface",
@@ -341,7 +341,7 @@
     "source_type": "paper",
     "pdf_path": "pdfs/yarosh2022.pdf",
     "doi": "",
-    "url": "",
+    "url": "https://linkinghub.elsevier.com/retrieve/pii/S1071581921001750",
     "summary": "This paper studies mediated social touch in remote communication and compares visual, haptic, and multimodal symbolic gestures. It argues that touch can operate as a symbolic communication channel whose meaning depends on relationship and emotional context. It is especially interesting because physical haptics are not always necessary for meaningful mediated touch.",
     "key_concepts": [
       "mediated social touch",

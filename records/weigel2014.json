@@ -8,7 +8,7 @@
   "source_type": "paper",
   "pdf_path": "",
   "doi": "",
-  "url": "",
+  "url": "https://dl.acm.org/doi/10.1145/2556288.2557239",
   "summary": "This paper explores on-skin interaction and treats the body itself as an input surface for mobile computing. It shows that different skin locations afford different gestures and meanings, and that physical comfort or discomfort can be deliberately used as part of interaction design. It is valuable because it frames touch as bodily, anatomical, and affective rather than neutral.",
   "key_concepts": [
     "skin as input surface",
